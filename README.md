@@ -30,3 +30,7 @@ It provides easy-to-use modules for graphics, audio, windowing, and input handli
 
 1. Ensure SFML is installed and properly linked.
 2. Compile the source code. 
+
+---
+Author
+Hareem Sajid
